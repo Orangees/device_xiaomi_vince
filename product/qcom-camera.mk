@@ -1,7 +1,3 @@
-# Snap
-PRODUCT_PACKAGES += \
-    Snap
-
 # Properties
 PRODUCT_PROPERTY_OVERRIDES += \
     camera.hal1.packagelist=com.skype.raider,com.google.android.talk \
